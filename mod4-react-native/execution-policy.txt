@@ -1,0 +1,5 @@
+Set-ExecutionPolicy RemoteSigned
+
+Set-ExecutionPolicy Restricted
+
+C:\Users\Gustavo\AppData\Local\Android\Sdk\platform-tools
