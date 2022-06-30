@@ -4,4 +4,4 @@ Set-ExecutionPolicy Restricted
 
 C:\Users\Gustavo\AppData\Local\Android\Sdk\platform-tools
 
-on \android\ folder: .\gradlew assembleRelease
+on .\android\ folder: .\gradlew assembleRelease
